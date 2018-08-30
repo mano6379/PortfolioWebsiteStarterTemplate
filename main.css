@@ -1,8 +1,7 @@
-/*https://www.w3schools.com/cssref/css_selectors.asp*/
 
-/** {
+* {
     border: 1px solid red !important;
-}*/
+}
 
 * {
     -webkit-box-sizing: border-box;
@@ -30,4 +29,3 @@
 .col-2 {
     width: 100%;
 }
-
